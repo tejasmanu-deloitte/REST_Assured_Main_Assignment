@@ -18,7 +18,6 @@ public class UserOperation {
     ArrayList<JSONObject> arr;
     String tokenG;
     String userid;
-    String[] array = new String[2];
     String login_path = "C:\\Users\\tejasmas\\Desktop\\Rest_Assured_Main_Assignment\\src\\test\\resources\\login.xlsx";
 
     @BeforeClass
